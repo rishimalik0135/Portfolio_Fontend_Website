@@ -9,6 +9,10 @@
     text-transform: uppercase;
 }
 
+.text-uppercase.title-h1{
+    margin: 40px;
+}
+
 /* Buttons */
 .button{
     padding: 0.8rem 2.2 rem;
